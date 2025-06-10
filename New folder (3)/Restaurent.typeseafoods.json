@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "6543bd64b6b9ac6edab991aa"
+  },
+  "seafoodType": 1,
+  "seafoodName": "Tôm",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6543bd6bb6b9ac6edab991ac"
+  },
+  "seafoodType": 2,
+  "seafoodName": "Cua",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6543bd73b6b9ac6edab991ae"
+  },
+  "seafoodType": 3,
+  "seafoodName": "Mực",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6543bd79b6b9ac6edab991b0"
+  },
+  "seafoodType": 4,
+  "seafoodName": "Ghẹ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6543bd81b6b9ac6edab991b2"
+  },
+  "seafoodType": 5,
+  "seafoodName": "Cá",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6543beacb6b9ac6edab991f8"
+  },
+  "seafoodType": 6,
+  "seafoodName": "Các loại hải sản khác",
+  "__v": 0
+}]

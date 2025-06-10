@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "6543c0fab6b9ac6edab9924c"
+  },
+  "seafoodId": "6543c023b6b9ac6edab9921c",
+  "comment": [
+    {
+      "userId": "6434e4313cfc5f17213b1c44",
+      "displayName": "Vuong Nguyen",
+      "rate": 5,
+      "content": "100 diem",
+      "_id": {
+        "$oid": "6543c0fab6b9ac6edab9924d"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6543c10cb6b9ac6edab9926b"
+  },
+  "seafoodId": "6543beecb6b9ac6edab991fc",
+  "comment": [
+    {
+      "userId": "6434e4313cfc5f17213b1c44",
+      "displayName": "Vuong Nguyen",
+      "rate": 5,
+      "content": "Ngon",
+      "_id": {
+        "$oid": "6543c10cb6b9ac6edab9926c"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6543c371b6b9ac6edab99314"
+  },
+  "seafoodId": "6543be55b6b9ac6edab991e6",
+  "comment": [
+    {
+      "userId": "6543c38ab6b9ac6edab99319",
+      "displayName": "Hoàn",
+      "rate": 5,
+      "content": "Hàng tươi sống, chất lượng",
+      "_id": {
+        "$oid": "6543c3b8b6b9ac6edab9933f"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6543c3a8b6b9ac6edab99329"
+  },
+  "seafoodId": "6543bed4b6b9ac6edab991fa",
+  "comment": [
+    {
+      "userId": "6543c38ab6b9ac6edab99319",
+      "displayName": "Hoàn",
+      "rate": 5,
+      "content": "Hàng tươi sống, Ngon",
+      "_id": {
+        "$oid": "6543c3a8b6b9ac6edab9932a"
+      }
+    },
+    {
+      "userId": "6543c34cb6b9ac6edab992e8",
+      "displayName": "VuongNguyen",
+      "rate": 4,
+      "content": "tt",
+      "_id": {
+        "$oid": "65447a1dade693019dfdfed8"
+      }
+    }
+  ],
+  "__v": 0
+}]

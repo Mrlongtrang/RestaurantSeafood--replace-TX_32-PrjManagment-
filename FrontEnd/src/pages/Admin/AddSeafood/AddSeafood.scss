@@ -1,0 +1,76 @@
+.addSeafood {
+  margin-top: 80px;
+  display: flex;
+  justify-content: center;
+  margin-top: 10%;
+  .card {
+    padding: 40px;
+    // width: 50%;
+
+    .inputRow {
+      display: flex;
+      flex-direction: column;
+      padding: 6px 0;
+      label {
+        font-size: 2rem;
+        font-weight: bold;
+        color: var(--secondary);
+        margin: 6px 0;
+      }
+
+      input {
+        padding: 4px 12px;
+        outline: none;
+        border: 2px solid transparent;
+        border-bottom: 2px solid #ccc;
+        font-size: 1.6rem;
+        font-weight: 400;
+        &:focus {
+          border-bottom-color: var(--primary);
+          transition: .4s;
+          transform: scale(1.05);
+        }
+      }
+
+      select {
+        padding: 6px 14px;
+        border: 2px solid transparent;
+        border-bottom-color: #ccc;
+        outline: none;
+        cursor: pointer;
+
+        &:focus{
+          border-bottom: 2px solid var(--primary);
+        }
+
+        option{
+        }
+      }
+    }
+
+    .inputButton {
+        display: flex;
+        justify-content: space-around;
+        margin: 10px 0;
+        button{
+            width: 20%;
+            padding: 8px;
+            color: white;
+            background-color: var(--primary);
+            border: 1px solid transparent;
+            border-radius: 4px;
+            font-size: 1.6rem;
+            font-weight: bold;
+            letter-spacing: 1.5px;
+            text-transform: uppercase;
+            transition: .4s;
+            opacity: 0.76;
+            &:hover{
+                transform: scale(1.1);
+                background-color: var(--secondary);
+                opacity: 1;
+            }
+        }
+    }
+  }
+}
